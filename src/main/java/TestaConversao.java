@@ -5,6 +5,8 @@ public class TestaConversao {
          int valor = (int) salario;
          System.out.println(valor);
 
+         long numeroGrande = 635165213231654L;
+
 
     }
 }
